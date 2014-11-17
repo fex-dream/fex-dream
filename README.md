@@ -1,13 +1,13 @@
 # fex-dream 是个什么样的组织？
 
-fex-dream 是一群志在加入 fex 的同学成立的组织。
+[fex-dream](https://github.com/fex-dream/) 是一群志在加入 [fex](http://fex.baidu.com/) 的同学成立的组织。
 不论你的出身，背景，学历，基础怎样，如果你和我们一样抱着一颗赤子之心决心踏入 fex 这个大家庭，欢迎你的加入。
 
-声明：这个组织 和官方 fex 无任何关系,只是想把一起相进 fex 的小伙伴聚集在这里，彼此鼓励，实现自己的 fex dream。
+声明：这个组织 和官方 [fex](http://fex.baidu.com/)无任何关系,只是想把一起想进 [fex](http://fex.baidu.com/) 的小伙伴聚集在这里，彼此鼓励，实现自己的 fex dream。
 
 # fex 是什么？
 
-fex 是百度「Web 前端研发部」的内部名称。 如果你践行开源，喜欢自由，自我驱动，富有想法，相信 fex 一定会非常适合你。
+[fex](http://fex.baidu.com/) 是百度「Web 前端研发部」的内部名称。 如果你践行开源，喜欢自由，自我驱动，富有想法，强执行力，相信 [fex](http://fex.baidu.com/) 一定会非常适合你。
 
 - 官方网址：[fex](http://fex.baidu.com/)
 - github: [fex-team](https://github.com/fex-team/)
