@@ -56,11 +56,11 @@
  - [ueditor](http://github.com/fex-team/ueditor/)
  - [webuploader](https://github.com/fex-team/webuploader/)
  - [gmu](https://github.com/fex-team/gmu/)
- - word: http://word.baidu.com
+ - [word](http://word.baidu.com)
 
 + [fex 面试题](https://github.com/fex-team/interview-questions)
 
 
 # 资料
 
-1. [前端开发面试题大收集](https://github.com/paddingme/Front-end-Web-Development-Interview-Question)
+1. [前端开发面试题大收集](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) @paddingme
