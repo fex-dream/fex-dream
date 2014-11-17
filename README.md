@@ -14,7 +14,7 @@ FEX 是百度「Web 前端研发部」的内部名称。 如果你践行开源�
 
 # 在这里能做什么
 
-- 你可以新建　issue　记录你每天为你的 FEX-dream 做了什么：
+- 你可以在[这个 repo](https://github.com/FEX-Dream/FEX-Dream) 新建　issue, 格式为 x年x月x日-who,记录你每天为你的 FEX-dream 做了什么：
   + 今天你学了什么？
   + 今天你哪里做得不好？
   + 明天你有什么计划？
@@ -29,9 +29,7 @@ FEX 是百度「Web 前端研发部」的内部名称。 如果你践行开源�
 
 人都是懒惰的，大家可以相互监督，相互鼓励，相互帮助，相互见证每个人的 FEX-dream。
 
-If you hava a FEX dream, come with us and make it true.
-
-Best Or Nothing.
+**If you hava a FEX dream, come with us and make it true.**
 
 
 # 关于 FEX
@@ -45,4 +43,4 @@ Best Or Nothing.
  - [ueditor](http://github.com/fex-team/ueditor/)
  - [webuploader](https://github.com/fex-team/webuploader/)
  - [gmu](https://github.com/fex-team/gmu/)
- - word: word.baidu.com
+ - word: <word.baidu.com>
