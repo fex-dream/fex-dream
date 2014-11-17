@@ -63,4 +63,4 @@
 
 # 资料
 
-1. [前端开发面试题大收集](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) @paddingme
+1. [前端开发面试题大收集](https://github.com/paddingme/Front-end-Web-Development-Interview-Question) @[paddingme](https://github.com/paddingme)
