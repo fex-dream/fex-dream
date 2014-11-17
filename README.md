@@ -20,11 +20,11 @@ FEX 是百度「Web 前端研发部」的内部名称。 如果你践行开源�
   + 今天你哪里做得不好？
   + 明天你有什么计划？
 
-  规则：在 <https://github.com/fex-dream/fex-dream/issues/new> 新建 issue.各个 label 的意思大致如下：
-  - `invite` 你想加入 fex dream 或者 你想邀请别人去做一些有意义的事（我们还是希望你有一个很强烈的愿望来和我们走到一起，而不是来占个坑打个酱油哦）；
+  规则：在 <https://github.com/fex-dream/fex-dream/issues/new> 新建 issue。各个 label 的意思大致如下：
+  - `invite` 你想加入 fex dream (留下你的邮箱或者 github id，我们会邀请你)或者 你想邀请别人去做一些有意义的事，我们还是希望你有一个很强烈的愿望来和我们走到一起，而不是来占个坑打个酱油哦；
   - `plan` 晒出你的学习计划，短期或者长期都可以；
-  - `help wanted` 你需要一些帮助；
-  - `fex dream log` 每天记录下你学到了什么或者对自己的反思等等
+  - `help wanted` 你需要小伙伴的帮助；
+  - `fex dream log` 每天记录下你学到了什么或者对自己的反思等等；
   - `share` 分享一些干货或者好玩的给这里的小伙伴；
 
   当然这里很自由，你想写什么都可以，也可以新建 label。
